@@ -1,0 +1,26 @@
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\bin\Debug\Bussiness Manager.exe.config
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\bin\Debug\Bussiness Manager.exe
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\bin\Debug\Bussiness Manager.pdb
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness Manager.csproj.AssemblyReference.cache
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness_Manager.Form1.resources
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness_Manager.Properties.Resources.resources
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness Manager.csproj.GenerateResource.cache
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness Manager.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness Manager.exe
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness Manager.pdb
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness_Manager.MainForm.resources
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\bin\Debug\Data.mdf
+C:\Users\Paulo Monayer\source\repos\Bussiness Manager\Bussiness Manager\bin\Debug\Data_log.ldf
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\bin\Debug\Data.mdf
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\bin\Debug\Data_log.ldf
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\bin\Debug\Bussiness Manager.exe.config
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\bin\Debug\Bussiness Manager.exe
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\bin\Debug\Bussiness Manager.pdb
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness_Manager.Form1.resources
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness_Manager.MainForm.resources
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness_Manager.Properties.Resources.resources
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness Manager.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness Manager.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness Manager.exe
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness Manager.pdb
+C:\Users\USER\source\repos\Bussiness Manager\Bussiness Manager\obj\Debug\Bussiness Manager.csproj.AssemblyReference.cache
